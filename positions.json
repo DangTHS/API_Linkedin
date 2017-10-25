@@ -1,0 +1,49 @@
+{"positions": {
+  "_total": 2,
+  "values": [
+    {
+      "company": {
+        "id": 13439540,
+        "industry": "Internet",
+        "name": "Dang T. H. S.",
+        "size": "myself only",
+        "type": "Public Company"
+      },
+      "id": 1096099077,
+      "isCurrent": true,
+      "location": {
+        "country": {
+          "code": "vn",
+          "name": "Vietnam"
+        },
+        "name": "Vietnam"
+      },
+      "startDate": {
+        "month": 9,
+        "year": 2017
+      },
+      "title": "Administrator"
+    },
+    {
+      "company": {
+        "id": 1956783,
+        "industry": "Education Management",
+        "name": "Can Tho University"
+      },
+      "id": 1089332275,
+      "isCurrent": true,
+      "location": {
+        "country": {
+          "code": "vn",
+          "name": "Vietnam"
+        },
+        "name": "Vietnam"
+      },
+      "startDate": {
+        "month": 9,
+        "year": 2014
+      },
+      "title": "Student"
+    }
+  ]
+}}
