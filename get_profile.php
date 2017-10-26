@@ -3,8 +3,8 @@
 
     $config['base_url']             =   'http://localhost:8080/linkedin_api/auth.php';
     $config['callback_url']         =   'http://localhost:8080/linkedin_api/get_profile.php';
-    $config['linkedin_access']      =   '81xq74u09urjew';
-    $config['linkedin_secret']      =   'S7UKWajf7rOK2ucn';
+    $config['linkedin_access']      =   '[api-key]';
+    $config['linkedin_secret']      =   '[secret]';
 
     include_once "linkedin.php";
    
